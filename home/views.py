@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> ea6a124 (git init)
 from django.shortcuts import render
 from django.http import HttpResponse
 import datetime
